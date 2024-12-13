@@ -1,0 +1,7 @@
+C:\Users\Hiruga\source\repos\Exercicios05While\Exercicios05While\bin\Debug\Exercicios05While.exe.config
+C:\Users\Hiruga\source\repos\Exercicios05While\Exercicios05While\bin\Debug\Exercicios05While.exe
+C:\Users\Hiruga\source\repos\Exercicios05While\Exercicios05While\bin\Debug\Exercicios05While.pdb
+C:\Users\Hiruga\source\repos\Exercicios05While\Exercicios05While\obj\Debug\Exercicios05While.csproj.AssemblyReference.cache
+C:\Users\Hiruga\source\repos\Exercicios05While\Exercicios05While\obj\Debug\Exercicios05While.csproj.CoreCompileInputs.cache
+C:\Users\Hiruga\source\repos\Exercicios05While\Exercicios05While\obj\Debug\Exercicios05While.exe
+C:\Users\Hiruga\source\repos\Exercicios05While\Exercicios05While\obj\Debug\Exercicios05While.pdb
